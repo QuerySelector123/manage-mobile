@@ -1,0 +1,21 @@
+/*
+*@description: element自定应变量
+*/
+
+// 颜色变量
+$red-theme-color: #b61d22;
+$theme-color1: #ee5629;
+$blue-theme-color: #5080bd;
+$theme-color2: #b7b7b7;
+$theme-color4: #ffa439;
+$theme-color5: #1bf4fd;
+$input-theme-color: $theme-color5;
+$theme-main-color: #237cc4;
+// 属性变量
+// $--color-primary: $red-theme-color; // 改变主题色变量
+$--table-row-hover-background-color: #fef4eb; // 表格hover高亮颜色
+$--border-width-base: 1px !default; // 边框默认2px
+$headers-height: 75px; // 头部导航栏的高度
+$headers-right-color: #c63e26; // 头部导航栏颜色(渐变往右的颜色 *);
+$slide-menu-width: 9.7%; // slidemenu 宽度
+$input-placeholder-color: #222b53; // input 框 placeholder 字体颜色

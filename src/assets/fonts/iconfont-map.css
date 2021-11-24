@@ -1,0 +1,96 @@
+@font-face {
+  font-family: "iconfont-map"; /* Project id 2422983 */
+  src: url('iconfont-map.eot?t=1622476708747'); /* IE9 */
+  src: url('iconfont-map.eot?t=1622476708747#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('iconfont-map.woff2?t=1622476708747') format('woff2'),
+       url('iconfont-map.woff?t=1622476708747') format('woff');
+}
+
+[class^="icon-map"], [class*=" icon-map"] {
+    font-family: "iconfont-map", serif !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-map-map-distance:before {
+  content: "\eabd";
+}
+
+.icon-map-arrow2-right:before {
+  content: "\e77b";
+}
+
+.icon-map-arrow2-left:before {
+  content: "\e77d";
+}
+
+.icon-map-distance:before {
+  content: "\e70d";
+}
+
+.icon-map-draw:before {
+  content: "\e608";
+}
+
+.icon-map-rectangle:before {
+  content: "\e628";
+}
+
+.icon-map-circle:before {
+  content: "\e64f";
+}
+
+.icon-map-polygon:before {
+  content: "\e697";
+}
+
+.icon-map-minus:before {
+  content: "\e606";
+}
+
+.icon-map-plus:before {
+  content: "\e602";
+}
+
+.icon-map-match:before {
+  content: "\e624";
+}
+
+.icon-map-build:before {
+  content: "\e609";
+}
+
+.icon-map-satellite:before {
+  content: "\e60f";
+}
+
+.icon-map-arrow-right:before {
+  content: "\e604";
+}
+
+.icon-map-arrow-left:before {
+  content: "\e605";
+}
+
+.icon-map-city-map:before {
+  content: "\e62a";
+}
+
+.icon-map-marker:before {
+  content: "\e9f2";
+}
+
+.icon-map-location:before {
+  content: "\e62c";
+}
+
+.icon-map-plot:before {
+  content: "\e6ca";
+}
+
+.icon-map-full:before {
+  content: "\e671";
+}
+

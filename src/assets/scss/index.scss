@@ -1,0 +1,18 @@
+/*
+ * @name: scss 样式主文件
+ * @author: xulujin
+ * @msg: 
+ * @Date: 2021-06-01 10:46:51
+ */
+
+// 各个页面的样式
+@import './login.scss';
+
+@import '../fonts/iconfont.css';
+@import './element-variables.scss';
+
+/* 改变 icon 字体路径变量，必需 */
+$--font-path: '~element-ui/lib/theme-chalk/fonts';
+@import '~element-ui/packages/theme-chalk/src/index';
+@import './reset.scss';
+@import './custom/index.scss';

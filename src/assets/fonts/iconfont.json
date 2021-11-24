@@ -1,0 +1,37 @@
+{
+  "id": "2764616",
+  "name": "公司产品-缺料看板",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "23803216",
+      "name": "单角向下",
+      "font_class": "left-bottom-l",
+      "unicode": "e6d7",
+      "unicode_decimal": 59095
+    },
+    {
+      "icon_id": "23803471",
+      "name": "单角向下",
+      "font_class": "right-top-l",
+      "unicode": "e6d9",
+      "unicode_decimal": 59097
+    },
+    {
+      "icon_id": "23803357",
+      "name": "单角向下",
+      "font_class": "right-bottom-l",
+      "unicode": "e6d8",
+      "unicode_decimal": 59096
+    },
+    {
+      "icon_id": "23803553",
+      "name": "单角向下",
+      "font_class": "left-top-l",
+      "unicode": "e6da",
+      "unicode_decimal": 59098
+    }
+  ]
+}
